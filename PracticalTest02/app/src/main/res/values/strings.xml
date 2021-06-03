@@ -11,12 +11,4 @@
     <string name="set">SET</string>
     <string name="reset">RESET</string>
     <string name="poll">POLL</string>
-    <string-array name="information_types">
-        <item>temperature</item>
-        <item>wind_speed</item>
-        <item>condition</item>
-        <item>pressure</item>
-        <item>humidity</item>
-        <item>all</item>
-    </string-array>
 </resources>
