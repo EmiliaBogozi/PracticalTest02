@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">PracticalTest02</string>
+    <string name="server">SERVER</string>
+    <string name="server_port">Port</string>
+    <string name="connect">Connect</string>
+    <string name="client">CLIENT</string>
+    <string name="client_address">Address</string>
+    <string name="client_port">Port</string>
+    <string name="hour">Hour</string>
+    <string name="minute">Minute</string>
+    <string name="set">SET</string>
+    <string name="reset">RESET</string>
+    <string name="poll">POLL</string>
+    <string-array name="information_types">
+        <item>temperature</item>
+        <item>wind_speed</item>
+        <item>condition</item>
+        <item>pressure</item>
+        <item>humidity</item>
+        <item>all</item>
+    </string-array>
 </resources>
